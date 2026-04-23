@@ -1,0 +1,16 @@
+# Frontend (React + Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend (Flask)
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+*.db
+*.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
